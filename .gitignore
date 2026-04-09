@@ -15,11 +15,11 @@ static/processed_images/
 target/
 
 # Editor config
-.vscode/
 .idea/
 
 # Local environmental variables
-.env
 
 # MacOS folder attributes
 **/.DS_Store
+config.bat
+node_modules
